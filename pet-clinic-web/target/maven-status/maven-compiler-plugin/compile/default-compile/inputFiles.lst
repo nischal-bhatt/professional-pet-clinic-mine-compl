@@ -1,8 +1,8 @@
-C:\New folder (16)\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\SfgPetClinicApplication.java
-C:\New folder (16)\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\bootstrap\DataLoader.java
-C:\New folder (16)\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\OwnerController.java
-C:\New folder (16)\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\IndexController.java
-C:\New folder (16)\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\PetController.java
-C:\New folder (16)\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\VetController.java
-C:\New folder (16)\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\VisitController.java
-C:\New folder (16)\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\formatters\PetTypeFormatter.java
+C:\New folder (18)\professional-pet-clinic-mine-compl\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\SfgPetClinicApplication.java
+C:\New folder (18)\professional-pet-clinic-mine-compl\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\PetController.java
+C:\New folder (18)\professional-pet-clinic-mine-compl\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\formatters\PetTypeFormatter.java
+C:\New folder (18)\professional-pet-clinic-mine-compl\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\IndexController.java
+C:\New folder (18)\professional-pet-clinic-mine-compl\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\OwnerController.java
+C:\New folder (18)\professional-pet-clinic-mine-compl\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\VetController.java
+C:\New folder (18)\professional-pet-clinic-mine-compl\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\bootstrap\DataLoader.java
+C:\New folder (18)\professional-pet-clinic-mine-compl\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\VisitController.java

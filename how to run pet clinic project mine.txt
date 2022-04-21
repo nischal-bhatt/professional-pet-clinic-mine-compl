@@ -1,0 +1,14 @@
+how to run petclinic project
+
+1. open project in STS 
+2. right click project, run as maven clean --> this will delete all the current jars in the project
+3. right click run as , maven install --> this will build up all the jars in the project
+4. go to this path, there should be a jar inside 
+C:\New folder (22)\professional-pet-clinic-mine-compl\pet-clinic-web\target
+jar should be called 
+pet-clinic-web-0.0.5-SNAPSHOT.jar
+5. go to cmd 
+6. cd into target folder above and type
+java -jar pet-clinic-web-0.0.5-SNAPSHOT.jar to run the server
+7. go to chrome and http://www.localhost:8080 
+
